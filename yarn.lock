@@ -3756,6 +3756,11 @@
   "resolved" "https://registry.npmjs.org/geojson-vt/-/geojson-vt-3.2.1.tgz"
   "version" "3.2.1"
 
+"geojson@^0.5.0":
+  "integrity" "sha1-PNbJY5m+ZbVu5VWWEW/pGRznAcA="
+  "resolved" "https://registry.npmjs.org/geojson/-/geojson-0.5.0.tgz"
+  "version" "0.5.0"
+
 "get-caller-file@^1.0.1":
   "integrity" "sha512-3t6rVToeoZfYSGd8YoLFR2DJkiQrIiUrGcjvFX2mDw3bn6k2OtwHN0TNCLbBO+w8qTvimhDkv+LSscbJY1vE6w=="
   "resolved" "https://registry.npmjs.org/get-caller-file/-/get-caller-file-1.0.3.tgz"
