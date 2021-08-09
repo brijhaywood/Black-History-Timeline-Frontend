@@ -95,6 +95,7 @@ class App extends Component {
         form = null;
     }
 
+
     return (
       <div className="App">
         <Nav
@@ -105,9 +106,9 @@ class App extends Component {
         {form}
         <h3>
           {this.state.logged_in
-            ? `Hello, ${this.state.username}`
+            ? <Map></Map>
             : 'Please Log In'}
-          <Map></Map>
+          {/* <Map></Map> */}
         </h3>
       </div>
     );

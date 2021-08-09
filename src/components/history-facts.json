@@ -3,99 +3,144 @@
         {
             "type": "Feature",
             "properties": {
-            "title": "Lincoln Park",
-            "description": "A northside park that is home to the Lincoln Park Zoo"
+            "year": 1966,
+            "category": "Inventions",
+            "title": "Home Security System",
+            "description": "Marie Van Brittan Brown was a nurse and an innovator. In 1966, she invented a video home security system along with her husband Albert Brown, an electronics technician.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.637596, 41.940403],
+            "coordinates": [-73.7949, 40.7282] ,
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Burnham Park",
-            "description": "A lakefront park on Chicago's south side"
+            "year": 1923,
+            "category": "Inventions",
+            "title": "The Three-Light Traffic Light",
+            "description": "Garrett Morgan came up with several significant inventions, including an improved sewing machine and the gas mask. However, one of Morgan's most influential inventions was the improved traffic light. Morgan's was one of the first three-light systems that were invented in the 1920s, resulting in widespread adoption of the traffic lights we take for granted today.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.603735, 41.829985],
+            "coordinates": [-84.253,38.2098],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Millennium Park",
-            "description": "A downtown park known for its art installations and unique architecture"
+            "year": 1887,
+            "category": "Inventions",
+            "title": "Automatic Elevator Doors",
+            "description": "Before automatic doors, people had to manually shut both the shaft and elevator doors before riding. Forgetting to do so led to multiple accidents as people fell down elevator shafts. As the story goes, when the daughter of African American inventor Alexander Miles almost fatally fell down the shaft, he took it upon himself to develop a solution. In 1887 he took out a patent for a mechanism that automatically opens and closes elevator shaft doors and his designs are largely reflected in elevators used today..",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.622554, 41.882534],
+            "coordinates": [-81.6934, 41.5052],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Grant Park",
-            "description": "A downtown park that is the site of many of Chicago's favorite festivals and events"
+            "year": 1982,
+            "category": "Inventions",
+            "title": "Mary Kenner",
+            "description": "The multifaceted Mary Kenner was born into a family of creative minds in 1912. Her father, Sidney Nathaniel Davidson, received a patent in 1914 for a clothes presser that could fit into a traveler's suitcase. Her sister Mildred Davidson Smith, even patented the family's board game. In the 1920s, Mary invented the sanitary belt which was designed to help keep sanitary products in place since disposable pads hadn't been invented just yet. Mary's idea sparked some interest in companies who turned her down when they found out she was a Black woman. Mary finally received the patent in 1957 after saving enough money. She went on to receive four other patents, holding the more than any other Black woman. She and Mildred received the patent for the toilet roll holder in 1982. After Mildred was diagnosed with multiple sclerosis, Mary invented a carrying pouch to attach to Mildred's walker so she could carry items on her own. Mary was also a well-known florist and federal employee. She died in 2006.tic doors, people had to manually shut both the shaft and elevator doors before riding. Forgetting to do so led to multiple accidents as people fell down elevator shafts. As the story goes, when the daughter of African American inventor Alexander Miles almost fatally fell down the shaft, he took it upon himself to develop a solution. In 1887 he took out a patent for a mechanism that automatically opens and closes elevator shaft doors and his designs are largely reflected in elevators used today.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.619185, 41.876367],
+            "coordinates": [-80.5495, 34.9854],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Humboldt Park",
-            "description": "A large park on Chicago's northwest side"
+            "year": 1936,
+            "category": "Sports",
+            "title": "Jesse Owens Dominates Hitler’s Olympics",
+            "description": "Shortly before World War II, Adolf Hitler wanted to advance his Nazi propaganda and demonstrate German force and Aryan racial superiority at the 1936 Olympic Games held in Berlin. But his plan fell through when Jesse Owens, African-American sprinter, ended up winning four gold medals, and consequently, disproving Hitler's theory. Not only that, but Owens also broke nine Olympic records and set three new ones.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.70199, 41.905423],
+            "coordinates": [13.38333, 52.51667],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Douglas Park",
-            "description": "A large park near in Chicago's North Lawndale neighborhood"
+            "year": 1968,
+            "category": "Sports",
+            "title": "Black Power Salute at the 1968 Olympics",
+            "description": "At the 1968 Olympics in Mexico, the issue of civil rights outshone the event itself as John Carlos and Tommie Smith took the victory stand after finishing third and first in the 200-meter sprint and gave the black power salute during the U.S. national anthem. The photograph of the two men, with their fists in the air, became one of the most influential images of the civil rights movement.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.699329, 41.860092],
+            "coordinates": [-99.14556, 19.41944],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Calumet Park",
-            "description": "A park on the Illinois-Indiana border featuring a historic fieldhouse"
+            "year": 1967,
+            "category": "Sports",
+            "title": "The Rumble in the Jungle",
+            "description": "In 1967, Muhammad Ali refused the Vietnam War draft. As a result, he was suspended from boxing, sentenced to prison, and stripped of all boxing titles. His conviction was overturned in 1971, and three years later, he won a match against George Forman, undefeated world heavyweight champion. The boxing event, also known as the Rumble in the Jungle, solidified Ali's legendary status and went down in history as one of the greatest sporting events of the 20th century.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.530221, 41.715515],
+            "coordinates": [-85.7594,38.2542],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Jackson Park",
-            "description": "A lakeside park that was the site of the 1893 World's Fair"
+            "year": 1989,
+            "category": "Sports",
+            "title": "The Shot” in Air Jordans",
+            "description": "In 1989, Michael Jordan made the iconic shot for Chicago Bulls that secured the win in playoffs against Cleveland Cavaliers. Soon after, Air Jordan IV sneakers were globally released by Nike. Aside from Jordan's spectacular shot, the moment went down in history because of Air Jordans’ stellar popularity amidst NBA's ban on shoes that weren't white enough. The sneakers, representative of Jordan's individualism, were a global revolution in sports marketing and business.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "data:image/jpeg;base64,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"
             },
             "geometry": {
-            "coordinates": [-87.580389, 41.783185],
+            "coordinates": [-81.6382, 41.2398],
             "type": "Point"
             }
         },
         {
             "type": "Feature",
             "properties": {
-            "title": "Columbus Park",
-            "description": "A large park in Chicago's Austin neighborhood"
+            "year": 1947,
+            "category": "Sports",
+            "title": "Jackie Robinson Breaks the Color Barrier",
+            "description": "On April 15th, 1947, Jackie Robinson made his major league debut with the Brooklyn Dodgers. In the process, Robinson also became the first African-American player to have ever played in the major leagues, marking the end to segregation in baseball as Robinson officially broke the color barrier.",
+            "is_liked": "False",
+            "has_viewed": "False",
+            "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
             },
             "geometry": {
-            "coordinates": [-87.769775, 41.873683],
+            "coordinates": [-73.958062, 40.665088],
             "type": "Point"
             }
         }
