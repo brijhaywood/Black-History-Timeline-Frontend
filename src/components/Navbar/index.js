@@ -18,9 +18,6 @@ const Navbar = () => {
             <Bars />
 
             <NavMenu>
-                <NavLink to="/" activeStyle>
-                    Home
-                </NavLink>
                 <NavLink to="/login" activeStyle>
                     Log In
                 </NavLink>

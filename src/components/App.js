@@ -119,7 +119,7 @@ import React from "react";
 import './App.css';
 import Navbar from "./Navbar";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-// import Home from '../pages';
+import Home from './pages/home';
 import SignUp from './pages/signup';
 import LogIn from './pages/login';
 
@@ -128,7 +128,7 @@ return (
     <Router>
 		<Navbar />
 		<Switch>
-			{/* <Route path="/" exact component={Home} /> */}
+			<Route path="/" exact component={Home} />
 			<Route path="/login" component={LogIn} />
 			<Route path="/sign-up" component={SignUp} />
 		</Switch>
