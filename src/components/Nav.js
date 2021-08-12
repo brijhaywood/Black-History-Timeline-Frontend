@@ -14,8 +14,7 @@ function Nav(props) {
         <li onClick={props.handle_logout}>logout</li>
         </ul>
     );
-    return <nav className="navbar">{props.logged_in ? logged_in_nav : logged_out_nav}</nav>;
-    
+    return <div>{props.logged_in ? logged_in_nav : logged_out_nav}</div>;
 }
 
 export default Nav;
